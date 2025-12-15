@@ -34,5 +34,5 @@ The backend follows a layered architecture, separating responsibilities into wel
 This project is currently under active development.
 New features and improvements are added incrementally as part of a learning-oriented and professional workflow.
 
-Marcello Viani, Dmitry Randos
+Marcello Viani, Dmitry Randos (Collaborator)
 2025"
